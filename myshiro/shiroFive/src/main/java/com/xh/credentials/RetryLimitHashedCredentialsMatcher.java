@@ -10,11 +10,7 @@ import org.apache.shiro.authc.credential.HashedCredentialsMatcher;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * <p>User: Zhang Kaitao
- * <p>Date: 14-1-28
- * <p>Version: 1.0
- */
+
 public class RetryLimitHashedCredentialsMatcher extends HashedCredentialsMatcher {
 
     private Ehcache passwordRetryCache;
