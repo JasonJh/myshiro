@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [23/Nov/2017:16:32:42 +0800] "GET /shiroThirteen HTTP/1.1" 302 - http-bio-8222-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Nov/2017:16:32:42 +0800] "GET /shiroThirteen/ HTTP/1.1" 302 - http-bio-8222-exec-3 114
+0:0:0:0:0:0:0:1 - - [23/Nov/2017:16:32:42 +0800] "GET /shiroThirteen/login.jsp;JSESSIONID=46da5f9b-0f0a-4667-9410-921f30d3401f HTTP/1.1" 302 - http-bio-8222-exec-4 2
